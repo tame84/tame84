@@ -14,15 +14,19 @@ At the moment, the goal is not to make code my work, it’s just a passion I hav
 
 Here are the languages I know and can work with right now, Eventually I would like to add Three.js and other libraries used to make a website dynamic and pleasant to use.
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/tame84)
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/tame84)
+[![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://github.com/tame84)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/tame84)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/tame84)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/tame84)
+[![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://github.com/tame84)
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tame84&layout=compact&theme=radical)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tame84&theme=tokyonight&layout=donut)](https://github.com/tame84)
+
+## Featured Projects 🚀
+
+[![Cinema App](https://github-readme-stats.vercel.app/api/pin/?username=tame84&repo=cinema-app&theme=tokyonight)](https://github.com/tame84/cinema-app)
 
 ## My Certifications 🏆
 
