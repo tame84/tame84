@@ -28,7 +28,7 @@ Here are the languages I know and can work with right now, Eventually I would li
 
 As said above I am self-taught and therefore do not have a diploma. I took the time to make some certifications available on the web. You can check in the list below what I have validated to make an idea of what I know how to do.
 
-- [Responsive Web Design](https://www.freecodecamp.org/certification/tame84/responsive-web-design)
+- <a href="https://www.freecodecamp.org/certification/tame84/responsive-web-design" target="_blank">Responsive Web Design</a>
 
 <!---
 tame84/tame84 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
