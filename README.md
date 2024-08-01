@@ -4,7 +4,7 @@ I'm tame, welcome to my Github profile !
 
 ## My life 🌍
 
-I'm a young Belgian developer specialized in React.js passionate about discovering new aspects of the languages I use. I learned my skills by myself with the documentation and video series available on the web. I started to get interested in React again towards the end of 2023 (even though I didn’t post my code on github during that time).
+I'm a young Belgian web developer specialized in React.js passionate about discovering new aspects of the languages I use. I learned my skills by myself with the documentation and video series available on the web. I started to get interested in React again towards the end of 2023 (even though I didn’t post my code on github during that time).
 
 Since the end of June 2024 I try seriously to practice my skills with a rhythm of one code moment per day. I’m also learning Three.js in order to create sites that stand out thanks to 3D.
 
