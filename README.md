@@ -26,8 +26,15 @@ Here are the languages I know and can work with right now, Eventually I would li
 
 ## Featured Projects 🚀
 
-[![Meteo App](https://github-readme-stats.vercel.app/api/pin/?username=tame84&repo=meteo-app&theme=tokyonight)](https://github.com/tame84/meteo-app)
-[![Cinema App](https://github-readme-stats.vercel.app/api/pin/?username=tame84&repo=cinema-app&theme=tokyonight)](https://github.com/tame84/cinema-app)
+<div>
+  <a href="https://github.com/tame84/meteo-app" style="margin-bottom: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tame84&repo=meteo-app&theme=tokyonight" alt="Meteo App">
+  </a>
+  <br />
+  <a href="https://github.com/tame84/cinema-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tame84&repo=cinema-app&theme=tokyonight" alt="Cinema App">
+  </a>
+</div>
 
 ## My Certifications 🏆
 
