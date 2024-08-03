@@ -12,7 +12,7 @@ At the moment, the goal is not to make code my work, it’s just a passion I hav
 
 ## My Skills 💻
 
-Here are the languages I know and can work with right now, Eventually I would like to add Three.js and other libraries used to make a website dynamic and pleasant to use.
+Here are the languages I know and can work with right now, Eventually I would like to add Next.js and other frameworks/new libraries used to make a website dynamic and pleasant to use.
 
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/tame84)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/tame84)
