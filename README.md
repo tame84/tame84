@@ -22,8 +22,6 @@ Here are the languages I know and can work with right now, Eventually I would li
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/tame84)
 [![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://github.com/tame84)
 
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tame84&theme=tokyonight&layout=donut)](https://github.com/tame84)
-
 ## Featured Projects 🚀
 
 <div>
