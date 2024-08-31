@@ -25,8 +25,8 @@ Here are the languages I know and can work with right now, Eventually I would li
 ## Featured Projects 🚀
 
 <div>
-  <a href="https://github.com/tame84/meteo-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tame84&repo=meteo-app&theme=tokyonight" alt="Meteo App">
+  <a href="https://github.com/tame84/ToDo-List-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tame84&repo=ToDo-List-App&theme=tokyonight" alt="ToDo-List-App">
   </a>
   <br />
   <a href="https://github.com/tame84/cinema-app">
