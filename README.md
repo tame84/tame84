@@ -29,13 +29,6 @@ Here are the languages I know and can work with right now, Eventually I would li
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=tame84&repo=ToDo-List-App&theme=tokyonight" alt="ToDo-List-App">
   </a>
   <br />
-  <a href="https://github.com/tame84/cinema-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tame84&repo=cinema-app&theme=tokyonight" alt="Cinema App">
-  </a>
-  <br />
-  <a href="https://github.com/tame84/cooking-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tame84&repo=cooking-app&theme=tokyonight" alt="Cooking App">
-  </a>
 </div>
 
 <!---
